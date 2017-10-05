@@ -25,13 +25,13 @@ A repository of Arduino projects I've done over the years, with pictures and vid
         * [Why Article Vetting is So Important](#whyVetting)
 3. [Privacy](#privacy)
     1. [Personal Data Access](#personalData)
-4. [Technical Data](#techdata)
+4. [Technical Data](#techData)
     1. [Dependencies](#dependencies)
     2. [User Authentication](#userAuth)
 5. 
 
 <a id= "features"></a>
-# 1.Site Features
+# Site Features
 * __Catalog of articles written by vetted users and taken from official sources__
 * __For users who sign up and create a profile:__
     * The ability to save useful articles so you can have all the info you need in one place
@@ -63,8 +63,21 @@ A repository of Arduino projects I've done over the years, with pictures and vid
 <a id= "privacy"></a>
 # Privacy
 
+<a id = "personalData"></a>
+## Personal Data Access
 
-## Third Example
+<a id = "techData"></a>
+# Technical Data
+
+<a id = "dependencies"></a>
+## Dependencies
+<a id = "userAuth"></a>
+## User Authentication
+
+Polaris authenticates users using [Auth0](https://auth0.com/)
+
+
+<a id = "techData"></a>
 
 ###
 
@@ -98,3 +111,4 @@ Current limitations
  How to contribute 
  
  Places you can go to get general information about emergency preparedness
+
