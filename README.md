@@ -74,7 +74,7 @@ A repository of Arduino projects I've done over the years, with pictures and vid
 <a id = "userAuth"></a>
 ## User Authentication
 
-Polaris authenticates users using [Auth0](https://auth0.com/)
+Polaris authenticates users using <a href="https://auth0.com/" target="_blank">Auth0</a>
 
 
 <a id = "techData"></a>
