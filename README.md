@@ -9,5 +9,5 @@ A repository of Arduino projects I've done over the years, with pictures and vid
 3. [Third Example](#third-example)
 4. 
 
-<a id= "howToUse"/>
+<a id= "howToUse"></a>
 ## How To Use
