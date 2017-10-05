@@ -21,8 +21,8 @@ A repository of Arduino projects I've done over the years, with pictures and vid
 <a id= "howToUse"></a>
 ## How To Use
 
-<a id= "signup"></a>
-### Sign Up Process
+    <a id= "signup"></a>
+    ### Sign Up Process
 
 ## Example2
 ## Third Example
