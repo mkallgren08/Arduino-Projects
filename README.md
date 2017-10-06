@@ -1,7 +1,3 @@
-# Arduino-Projects
-A repository of Arduino projects I've done over the years, with pictures and video demos if available.
-
-
 # Polaris Emergency Preparation
 #### By Renee Geffre, David Goodrich, Michael Kallgren, Brian Martin
 
@@ -19,23 +15,23 @@ A repository of Arduino projects I've done over the years, with pictures and vid
 
 1. [Site Features](#features)
 2. [How to use](#howToUse)
-  1. [Sign Up Process](#signup)
-  2. [Creation of Emergency Profile](#makingEmergencyProfile)
-  3. [Searching Articles](#searchArticles)
-  4. [Writing Articles](#writeArticles)
-    * [Why Article Vetting is So Important](#whyVetting)
+	1. [Sign Up Process](#signup)
+	2. [Creation of Emergency Profile](#makingEmergencyProfile)
+	3. [Searching Articles](#searchArticles)
+	4. [Writing Articles](#writeArticles)
+    	* [Why Article Vetting is So Important](#whyVetting)
 3. [Use of Emergency Profile](#usingEmergencyProfile)
-  1. [When is the Emergency Profile Activated?](#activeEmergency)
-  2. [How to Update Emergency Profile](#updateEmergencyProfile)
-  3. [Types of Emergency Categories](#emergencyCategories)
+	1. [When is the Emergency Profile Activated?](#activeEmergency)
+	2. [How to Update Emergency Profile](#updateEmergencyProfile)
+	3. [Types of Emergency Categories](#emergencyCategories)
 4. [Resource Sharing](#resourceSharing)
 5. [Privacy](#privacy)
-  1. [Personal Data Access](#personalData)
+	1. [Personal Data Access](#personalData)
 6. [Technical Data](#techData)
-  1. [Dependencies](#dependencies)
-  2. [User Authentication](#userAuth)
+	1. [Dependencies](#dependencies)
+	2. [User Authentication](#userAuth)
 7. [Future Improvements](#futureImprovements)
-  1. [List of Future Features We Want to Have](#futureFeatures)
+	1. [List of Future Features We Want to Have](#futureFeatures)
 8. [Aditional Resources](#additionalResources)
 
 
@@ -164,5 +160,3 @@ Current limitations
  How to contribute 
  
  Places you can go to get general information about emergency preparedness
-
-
