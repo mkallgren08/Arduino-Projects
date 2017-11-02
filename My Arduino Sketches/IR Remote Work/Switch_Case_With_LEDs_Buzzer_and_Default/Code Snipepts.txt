@@ -1,0 +1,21 @@
+    case 0xB012615A:
+      tone (Buzzerpin, frequency);
+      delay (1000);
+      break;
+
+    default:
+      digitalWrite(12, HIGH);   // Turn on the orange LED
+      delay (1000);
+      digitalWrite (12, LOW); // Turn off the orange LED
+      delay (1000);
+      break;
+
+  case (0xB012615A, 0x8D2A4BAF, 0x1C22DE05, 0x7A6E10BA, 0x97123E8A ):
+      tone (Buzzerpin, frequency);
+      delay (1000);
+      break;
+ default:
+      digitalWrite(LED4, HIGH);   // Turn on the orange LED
+      delay(1000);              // Wait for one second
+      digitalWrite(LED4, LOW);    // Turn off the LED
+      delay(1000);
