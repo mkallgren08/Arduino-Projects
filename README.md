@@ -1,4 +1,4 @@
-#Welcome to my Arduino Repository
+# Welcome to my Arduino Repository
 This repo is mainly to serve as a collection of my arduino (and other microcontroller) sketches and as a repo of several of my Maker ideas. There's not much here now, but feel free to come back over time to see what's in here!
 
 For anyone interested in how to get started with learning programming and making your own robots and/or Internet-of-Things devices, head on over to the [Arduino](https://www.arduino.cc/), [Adafruit](https://www.adafruit.com/), or [Raspberry Pi](https://www.raspberrypi.org/) to get started! 
