@@ -73,6 +73,12 @@ SIGNAL(TIMER0_COMPA_vect)
 {
   unsigned long currentTime = millis(); // grabs the current time from the system
                                         // clock(in milliseconds)
+//  unsigned long ledCounter = 0;
+//  if (ledCounter == 0){
+//    
+//  }else if (){
+//    
+//  }
   blinkLED.Update(currentTime);
 }
 
