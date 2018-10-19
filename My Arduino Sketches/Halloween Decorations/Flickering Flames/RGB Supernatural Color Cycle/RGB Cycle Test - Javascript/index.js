@@ -24,7 +24,7 @@ $(document).ready(function(){
 
 });
 
-function cycleThrough (red,green,blue){
+function cycleThrough (){
 
 
 
@@ -53,9 +53,9 @@ function cycleThrough (red,green,blue){
   //   console.log(rDir);
   // };
 
-  if (rDir === "increase"){r += 1;} else if (rDir !== "hold"){r -= 1;};
-  if (gDir === "increase"){g += 1;} else if (gDir !== "hold"){g -= 1;};
-  if (bDir === "increase"){b += 1;} else if (bDir !== "hold"){b -= 1;};
+  if (rDir == "increase"){r += 1;} else if (rDir != "hold"){r -= 1;};
+  if (gDir == "increase"){g += 1;} else if (gDir != "hold"){g -= 1;};
+  if (bDir == "increase"){b += 1;} else if (bDir != "hold"){b -= 1;};
 
     // if ( g < green || g === 0) {g += 1};
     // if ( g > green || g === 255 ) {g -= 1};
